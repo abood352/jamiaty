@@ -6,7 +6,7 @@
 
 [![Live demo](https://img.shields.io/badge/Live%20demo-Open-1f4d3a?style=for-the-badge)](https://abdulhadi.review/#demo/jamiaty) [![Portfolio](https://img.shields.io/badge/Portfolio-abdulhadi.review-b9a779?style=for-the-badge)](https://abdulhadi.review)
 
-`Angular` · `TypeScript` · `RxJS` · `Figma`
+`React` · `TypeScript` · `Vite` · `CSS Modules` · `Figma`
 
 <img src="docs/cover.jpg" alt="Jamiaty screenshot" width="900" />
 
